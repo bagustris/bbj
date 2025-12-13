@@ -1,4 +1,4 @@
-Belajar bahasa jepang:
+Seri ayo belajar Bahasa Jepang:
 
 {:start="0"}
 

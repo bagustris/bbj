@@ -1,7 +1,6 @@
 Belajar bahasa jepang:
 
 1. [Ayo belajar bahasa Jepang [0]: Mengenal Katakana dan Hiragana](https://bagustris.blogspot.com/2012/11/ayo-belajar-bahasa-jepang-mengenal.html)
-{:start="0"}
 2. [Ayo Belajar Bahasa Jepang [1]: Hajimemashite, Watashi wa Kuon desu](https://bagustris.blogspot.com/2012/12/ayo-belajar-bahasa-jepang-1.html)
 3. [Ayo Belajar Bahasa Jepang [2]: Sore Wa Nan Desuka?](https://bagustris.blogspot.com/2012/12/ayo-belajar-bahasa-jepa-2-sore-wa-nan.html)
 4. [Ayo Belajar Bahasa Jepang [3]: Hai, Wakarimashita](https://bagustris.blogspot.com/2012/12/ayo-belajar-bahasa-jepang-3-hai.html)

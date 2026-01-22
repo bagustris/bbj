@@ -1,6 +1,6 @@
 BBJ: Belajar Bahasa Jepang  
 
-Aslinya, halaman ini adalah daftar isi dari seri "Ayo Belajar Bahasa Jepang" yang diterbitkan di blog Bagus Tris pada tahun 2011 hingga 2014. Seri ini mencakup pelajaran bahasa Jepang dasar yang disusun dalam bentuk artikel blog berdasarkan laman NHK 2011. Seriring waktu, saya menambahkan edisi 2008, 2015, dan 2019 di repo github saya. Namun, artikel blog hanya tersedia untuk seri 2011 saja (seri lain bisa didownload PDF-nya di repo github saya).   
+Aslinya, halaman ini adalah daftar isi dari seri "Ayo Belajar Bahasa Jepang" yang diterbitkan di blog bagustris.blogspot.com pada tahun 2011 hingga 2014. Seri ini mencakup pelajaran bahasa Jepang dasar yang disusun dalam bentuk artikel blog berdasarkan laman NHK 2011. Seiring waktu, saya menambahkan edisi 2008, 2015, dan 2019 di repo github saya. Namun, artikel blog hanya tersedia untuk seri 2011 saja (seri lain bisa didownload PDF dan audionya di repo github saya).   
 Seri ayo belajar Bahasa Jepang 2011:
 
 {:start="0"}

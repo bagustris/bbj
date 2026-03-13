@@ -14,7 +14,7 @@ Seri ayo belajar Bahasa Jepang 2011:
 7. [Ayo Belajar Bahasa Jepang [6] : Ginko Ni Itte Kara, Kaisha Ni Kimasu](https://bagustris.blogspot.com/2013/02/ayo-belajar-bahasa-jepang-6ginko-ni.html)
 8. [Ayo Belajar Bahasa Jepang [7] : Kouza O Hirakitai n Desu Ga](https://bagustris.blogspot.com/2013/03/ayo-belajar-bahasa-jepang-7-kouza-o.html)
 9. [Ayo Belajar Bahasa Jepang [8] : Dou Shiyou...?](https://bagustris.blogspot.com/2013/03/ayo-belajar-bahasa-jepang-8-dou-shiyou.html)
-10. [Ayo Belajar Bahasa Jepang [9] : Ibu Yamada Ada..?](https://bagustris.blogspot.com/2013/05/ayo-belajar-bahasa-jepang-8-dou-shiyou.html)
+10. [Ayo Belajar Bahasa Jepang [9] : Yamada-san Ga Irasshaimasuka..?](https://bagustris.blogspot.com/2013/05/ayo-belajar-bahasa-jepang-8-dou-shiyou.html)
 11. [Ayo Belajar Bahasa Jepang [10] : Itsumo O-sewa Ni Natte Orimasu](https://bagustris.blogspot.com/2013/06/ayo-belajar-bahasa-jepang-10-itsumo-o.html)
 12. [Ayo Belajar Bahasa Jepang [11] : Dare To Iku N Desuka?](https://bagustris.blogspot.com/2013/07/ayo-belajar-bahasa-jepang-11-dare-to.html)
 13. [Ayo Belajar Bahasa Jepang [12] : Sore Wa Benri Desu Ne](https://bagustris.blogspot.com/2013/08/ayo-belajar-bahasa-jepang-12-sore-wa.html)
